@@ -1,0 +1,208 @@
+[
+    {
+        "id": 1,
+        "title": "Healthy Home Meals",
+        "subtitle": "Take a picture of your refrigerator contents or the ingredients available and discover tons of healthy recipes that you can make at home.",
+        "coverimage": "/images/portfolios/healthy-home-meals-0.webp",
+        "imagegallery": [],
+        "videogallery": [
+            "https://www.youtube.com/watch?v=JQY2UnyVrqY"
+        ],
+        "url": "https://healthy-home-meals.dashroshan.com",
+        "github": "https://github.com/roshan1337d/Healthy-Home-Meals",
+        "filters": [
+            "fullstack"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "College Freshers Portal",
+        "subtitle": "A portal for freshers to learn about their own batchmates, seniors, societies and access shared resources like notes, questions, and slides.",
+        "coverimage": "/images/portfolios/college-freshers-portal.webp",
+        "imagegallery": [],
+        "videogallery": [],
+        "url": "https://csebootcamp2k22.tech",
+        "github": "https://github.com/roshan1337d/iiit-bbsr-cse-26",
+        "filters": [
+            "fullstack"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Advaita Fest 2k23",
+        "subtitle": "Official site for Advaita: the annual techno-cultural fest of IIIT Bhubaneswar built for participants, sponsors, and organizers alike.",
+        "coverimage": "/images/portfolios/advaita-fest-2k23.webp",
+        "imagegallery": [],
+        "videogallery": [],
+        "url": "https://advaita-iiitbh.in",
+        "github": "https://github.com/roshan1337d/advaita2k23",
+        "filters": [
+            "frontend"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "ClashVerse Discord Bot",
+        "subtitle": "A discord bot for Clash of Clans to get stats, zapquake combos, trader items, and more with in-game-like image-based responses.",
+        "coverimage": "/images/portfolios/clashverse-discord-bot.webp",
+        "imagegallery": [],
+        "videogallery": [],
+        "url": "https://clashverse.dashroshan.com",
+        "github": "https://github.com/roshan1337d/clashverse",
+        "filters": [
+            "bots"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Coding Contests Companion",
+        "subtitle": "Discord bot for contests info, notifications, and daily problems from codechef, leetcode, hackerrank, codeforces, atcoder, and more!",
+        "coverimage": "/images/portfolios/coding-contests-companion.webp",
+        "imagegallery": [],
+        "videogallery": [
+            "https://www.youtube.com/watch?v=xcRL4qktImA"
+        ],
+        "url": "https://discord.com/oauth2/authorize?client_id=1023627528860086332&permissions=268435456&scope=bot%20applications.commands",
+        "github": "https://github.com/roshan1337d/coding-contests-companion",
+        "filters": [
+            "bots"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Personal Finance Tracker",
+        "subtitle": "Web app built with help of Copilot which helps users keep track of their budget and expenses with support for cloud and local backups.",
+        "coverimage": "/images/portfolios/personal-finance-tracker.webp",
+        "imagegallery": [],
+        "videogallery": [
+            "https://www.youtube.com/watch?v=mXf0OAtq_9U"
+        ],
+        "url": "https://personal-finance-tracker.dashroshan.com",
+        "github": "https://github.com/roshan1337d/Personal-Finance-Tracker",
+        "filters": [
+            "fullstack"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Mess Management System",
+        "subtitle": "Mess portal where students can buy their desired coupons, with a QR code system and Razorpay integration. Includes admin panel for owners.",
+        "coverimage": "/images/portfolios/mess-management-system.webp",
+        "imagegallery": [],
+        "videogallery": [
+            "https://www.youtube.com/watch?v=QqCdYTh8L7o"
+        ],
+        "url": "https://mess.dashroshan.com",
+        "github": "https://github.com/roshan1337d/mess-management-system",
+        "filters": [
+            "fullstack"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "ZapQuake Combos",
+        "subtitle": "Tool to find the minimum spell combinations including higher-level cc spells required to take down any level defense in Clash of Clans.",
+        "coverimage": "/images/portfolios/zapquake-combos.webp",
+        "imagegallery": [],
+        "videogallery": [],
+        "url": "https://zapquake.dashroshan.com",
+        "github": "https://github.com/roshan1337d/zapquake",
+        "filters": [
+            "frontend"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Search your Weather",
+        "subtitle": "Web app to find the find the detailed weather conditions of any place in the world built using weather services in Azure maps API.",
+        "coverimage": "/images/portfolios/search-your-weather.webp",
+        "imagegallery": [],
+        "videogallery": [],
+        "url": "https://weather.dashroshan.com",
+        "github": "https://github.com/roshan1337d/Weather-App",
+        "filters": [
+            "frontend"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Visits Counter",
+        "subtitle": "URL query based customizable SVG visits counter badge for github markdown files and sites, with web tool for easy customizations.",
+        "coverimage": "/images/portfolios/visits-counter.webp",
+        "imagegallery": [],
+        "videogallery": [],
+        "url": "https://visits.dashroshan.com",
+        "github": "https://github.com/roshan1337d/visits-counter",
+        "filters": [
+            "fullstack",
+            "scripts"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "IIIT-Bh MUMS Mailer",
+        "subtitle": "Emails new notices from IIIT-Bh university management system into student group email addresses for notifications.",
+        "coverimage": "/images/portfolios/iiitbh-mums-mailer.webp",
+        "imagegallery": [],
+        "videogallery": [],
+        "url": "https://visits.dashroshan.com",
+        "github": "https://github.com/roshan1337d/visits-counter",
+        "filters": [
+            "scripts",
+            "bots"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Tours and Travels Portal",
+        "subtitle": "Website for a car rental company with cars showcase, gallery, services, testimonials, and an admin dashboard.",
+        "coverimage": "/images/portfolios/tours-and-travels-portal.webp",
+        "imagegallery": [],
+        "videogallery": [],
+        "url": "https://boomcar.in",
+        "github": "https://github.com/roshan1337d/tours-and-travels",
+        "filters": [
+            "fullstack"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "8D Slow Reverbed",
+        "subtitle": "Python script to generate the 8D + Slow + Reverb effect version of any song using its WAV or MP3 file with FFMPEG.",
+        "coverimage": "/images/portfolios/8d-slow-reverbed.webp",
+        "imagegallery": [],
+        "videogallery": [],
+        "github": "https://github.com/roshan1337d/8d-slow-reverb",
+        "filters": [
+            "scripts"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Link Shortener",
+        "subtitle": "Free to use link shortener with custom short link suffixes, delete link feature, and extensive visitor count tracking.",
+        "coverimage": "/images/portfolios/link-shortener.webp",
+        "imagegallery": [],
+        "videogallery": [],
+        "url": "https://link.dashroshan.com",
+        "github": "https://github.com/roshan1337d/link-shortener",
+        "filters": [
+            "fullstack"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Disaster Rapid Response",
+        "subtitle": "Provides disaster heatmaps by analyzing aerial imaging for relief, and blockchain based financial aid transfer based on damage.",
+        "coverimage": "/images/portfolios/disaster-rapid-response.webp",
+        "imagegallery": [],
+        "videogallery": [
+            "https://www.youtube.com/watch?v=wqGakXwoaNc"
+        ],
+        "url": "https://disaster-rapid-response.dashroshan.com",
+        "github": "https://github.com/roshan1337d/google-solution-challenge",
+        "filters": [
+            "fullstack"
+        ]
+    }
+]

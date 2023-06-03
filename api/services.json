@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Global top 100 finalist",
+        "subtitle": "Google Solution Challenege",
+        "text": "My team built Disaster Rapid Response, a portal which provides disaster damage heatmaps by analyzing aerial imaging of affected areas for rapid relief response, and allows transfer of financial aid through blockchain based on estimated damages."
+    },
+    {
+        "id": 2,
+        "title": "Second place winner",
+        "subtitle": "D3 Techno-management Hackathon",
+        "text": "I built a mess portal where students can buy their desired coupons, with a QR code system and Razorpay integration. Owners can set their weekly menu, price, time, and view meals to be cooked for the day."
+    },
+    {
+        "id": 3,
+        "title": "Global 300 with 800k+ points",
+        "subtitle": "Google HashCode",
+        "text": "This was a competitive coding contest where I had to optimize the traffic flow of a city using the given data. It tested us on concepts of DSA, and OOPS. I ranked within the top 300 globally among 5000+ participants."
+    },
+    {
+        "id": 4,
+        "title": "Regional finalist",
+        "subtitle": "GFG Solving for India Hackathon",
+        "text": "My team build a web app which enables users to take a picture of their refrigerator contents, detects the ingredients present, factors in their allergies, and dietary styles, and then recommends healthy recipes they can make at home."
+    },
+    {
+        "id": 5,
+        "title": "Global rank 120",
+        "subtitle": "CodeChef September Long",
+        "text": "I regularly participate in competitive coding contests on CodeChef to improve my problem solving skills and brush up my concepts of data structures and algorithms. Python, Java, and C++ are my languages of choice."
+    },
+    {
+        "id": 6,
+        "title": "Finalist",
+        "subtitle": "In several other hackathons",
+        "text": "I have qualified for finals in hackathons like DevBhoomi Cyber Hackathon, Smart India Hackathon, Flipkart GRiD, and more. I have worked on projects ranging from web apps to machine learning models."
+    }
+]

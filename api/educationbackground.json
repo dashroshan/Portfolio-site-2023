@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "BTech in Computer Science and Engineering",
+        "meta": "IIIT Bhubaneswar",
+        "text": "CGPA upto 3rd semester - 9.09",
+        "year": "2021 - 2025"
+    },
+    {
+        "id": 2,
+        "title": "CBSE Senior Secondary School",
+        "meta": "Mother's Public School, Bhubaneswar",
+        "text": "Class 12 board exam - 97%",
+        "year": "2019 - 2021"
+    },
+    {
+        "id": 3,
+        "title": "CBSE Primary, Middle, and Secondary School",
+        "meta": "St. Xavier's High School, Puri",
+        "text": "Class 10 board exam - 97%",
+        "year": "2009 - 2019"
+    }
+]

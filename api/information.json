@@ -1,0 +1,28 @@
+{
+    "firstName": "Roshan",
+    "lastName": "Dash",
+    "fullName": "Roshan Dash",
+    "thumbImage": "/images/thumb-image.jpg",
+    "largeImage": "/images/about-image.jpg",
+    "bio": "I am a full-stack web and cloud developer, also skilled in animation, illustration, and graphic designing. I am in my second year, pursuing a bachelor's in CSE from IIIT Bhubaneswar.",
+    "age": 20,
+    "nationality": "Indian",
+    "languages": [
+        "English",
+        "Hindi",
+        "Odia"
+    ],
+    "address": "Puri, Odisha",
+    "freelance": "Available",
+    "socialAddress": {
+        "twitter": "https://twitter.com/roshan1337d",
+        "github": "https://github.com/roshan1337d",
+        "linkedin": "https://www.linkedin.com/in/roshandash"
+    },
+    "phoneNumbers": [
+        "+91 7008669470"
+    ],
+    "emailAddress": [
+        "roshandash.dev@gmail.com"
+    ]
+}

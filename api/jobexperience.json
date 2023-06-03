@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "Freelancer",
+        "meta": "Fiverr",
+        "text": "1100+ completed orders with 5 stars average rating in domains such as Web development, Cloud, UI design, Illustration, and Animation.",
+        "year": "2019 - Present"
+    },
+    {
+        "id": 2,
+        "title": "Project Admin and Mentor",
+        "meta": "GirlScript Summer of Code",
+        "text": "GSSoC is a 3 month long open-source program conducted by GirlScript Foundation. I had been selected as a PA for my discord bot Coding Contest Companion.",
+        "year": "2023 - 2023"
+    },
+    {
+        "id": 3,
+        "title": "Microsoft Learn Student Ambassador",
+        "meta": "Microsoft",
+        "year": "2022 - Present"
+    },
+    {
+        "id": 4,
+        "title": "Web Development Team Lead",
+        "meta": "TARS IIIT-Bh",
+        "year": "2022 - Present"
+    }
+]

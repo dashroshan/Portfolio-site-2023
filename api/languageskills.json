@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "MERN Stack",
+        "percentage": 95
+    },
+    {
+        "id": 2,
+        "title": "Flask • FastAPI",
+        "percentage": 90
+    },
+    {
+        "id": 3,
+        "title": "NextJS • VueJS",
+        "percentage": 70
+    },
+    {
+        "id": 4,
+        "title": "HTML • CSS • JavaScript",
+        "percentage": 95
+    },
+    {
+        "id": 5,
+        "title": "Azure • GCP • AWS",
+        "percentage": 70
+    },
+    {
+        "id": 6,
+        "title": "Docker • Nginx • Caddy",
+        "percentage": 75
+    },
+    {
+        "id": 7,
+        "title": "Git • GitHub • CI/CD",
+        "percentage": 90
+    },
+    {
+        "id": 8,
+        "title": "MySQL • SQLite • MongoDB",
+        "percentage": 90
+    },
+    {
+        "id": 9,
+        "title": "Python • JS • Java • C++",
+        "percentage": 90
+    },
+    {
+        "id": 10,
+        "title": "Adobe Suite for UI/UX",
+        "percentage": 90
+    }
+]
