@@ -554,7 +554,7 @@
                             className: "contianer mx-auto",
                             children: (0, t.jsxs)("p", {
                                 className: "mb-0 py-4 text-center",
-                                children: ["\xa9 ", (new Date).getFullYear(), ", All right reserved", (0, t.jsx)(c(), {
+                                children: ["\xa9 ", (new Date).getFullYear(), ", All right reserved", (0, t.jsx)("span", {
                                     href: "/",
                                     children: (0, t.jsx)("a", {
                                         className: "pl-1.5 font-medium text-heading no-underline hover:text-primary",

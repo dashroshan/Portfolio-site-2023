@@ -568,7 +568,7 @@
                                     })
                                 }), (0, n.jsxs)("p", {
                                     className: "mb-0 w-full md:w-auto",
-                                    children: ["\xa9 ", (new Date).getFullYear(), ", All right reserved", (0, n.jsx)(o(), {
+                                    children: ["\xa9 ", (new Date).getFullYear(), ", All right reserved", (0, n.jsx)("span", {
                                         href: "/",
                                         children: (0, n.jsx)("a", {
                                             className: "pl-1.5 font-medium text-heading no-underline hover:text-primary",
@@ -1442,8 +1442,7 @@
                         t = void 0 === r ? "/" : r,
                         i = e.text,
                         l = void 0 !== i && i;
-                    return (0, n.jsx)(a(), {
-                        href: t,
+                    return (0, n.jsx)("div", {
                         children: (0, n.jsx)("a", {
                             className: "sitelogo py-2",
                             children: l ? (0, n.jsx)("span", {

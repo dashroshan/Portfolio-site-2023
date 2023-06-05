@@ -1,1 +1,25 @@
-{"pageProps":{"pages":[{"id":1,"title":"Home Version 1","image":"/images/demo/homepage-1.jpg","path":"/homepage1"},{"id":2,"title":"Home Version 2","image":"/images/demo/homepage-2.jpg","path":"/homepage2"},{"id":3,"title":"Home Version 3","image":"/images/demo/homepage-3.jpg","path":"/homepage3"}]},"__N_SSG":true}
+{
+    "pageProps": {
+        "pages": [
+            {
+                "id": 1,
+                "title": "Home Version 1",
+                "image": "/images/demo/homepage-1.jpg",
+                "path": "/homepage1"
+            },
+            {
+                "id": 2,
+                "title": "Home Version 2",
+                "image": "/images/demo/homepage-2.jpg",
+                "path": "/homepage2"
+            },
+            {
+                "id": 3,
+                "title": "Home Version 3",
+                "image": "/images/demo/homepage-3.jpg",
+                "path": "/homepage3"
+            }
+        ]
+    },
+    "__N_SSG": true
+}

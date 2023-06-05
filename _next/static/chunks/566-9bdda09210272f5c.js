@@ -536,7 +536,7 @@
                                                 typeSpeed: 100,
                                                 backSpeed: 20,
                                                 backDelay: 2e3,
-                                                strings: [x.fullName, "Full-stack Developer", "Web Designer"],
+                                                strings: [x.fullName, "Full-stack Developer", "Cloud Developer"],
                                                 className: "text-primary"
                                             }) : (0, n.jsx)("span", {
                                                 className: "text-primary",
