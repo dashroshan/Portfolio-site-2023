@@ -1,63 +1,63 @@
 "use strict";
 (self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
     [937], {
-        9352: function(t, a, n) {
+        9352: function (t, a, n) {
             n.d(a, {
-                Azx: function() {
+                Azx: function () {
                     return i
                 },
-                B4m: function() {
+                B4m: function () {
                     return s
                 },
-                F3s: function() {
+                F3s: function () {
                     return d
                 },
-                Hgh: function() {
+                Hgh: function () {
                     return h
                 },
-                NqZ: function() {
+                NqZ: function () {
                     return v
                 },
-                PBv: function() {
+                PBv: function () {
                     return z
                 },
-                V90: function() {
+                V90: function () {
                     return g
                 },
-                dtO: function() {
+                dtO: function () {
                     return M
                 },
-                eSQ: function() {
+                eSQ: function () {
                     return w
                 },
-                gcy: function() {
+                gcy: function () {
                     return p
                 },
-                jGU: function() {
+                jGU: function () {
                     return l
                 },
-                nzV: function() {
+                nzV: function () {
                     return H
                 },
-                q7V: function() {
+                q7V: function () {
                     return e
                 },
-                tsq: function() {
+                tsq: function () {
                     return u
                 },
-                uXP: function() {
+                uXP: function () {
                     return V
                 },
-                uXPGH: function() {
+                uXPGH: function () {
                     return github
                 },
-                w6U: function() {
+                w6U: function () {
                     return c
                 },
-                x2F: function() {
+                x2F: function () {
                     return o
                 },
-                yMK: function() {
+                yMK: function () {
                     return f
                 }
             });
@@ -168,7 +168,7 @@
                 return (0, r.w_)({
                     tag: "svg",
                     attr: {
-                        viewBox: "0 0 24 24"
+                        viewBox: "0 0 384 512"
                     },
                     child: [{
                         tag: "g",
@@ -176,13 +176,7 @@
                         child: [{
                             tag: "path",
                             attr: {
-                                fill: "none",
-                                d: "M0 0h24v24H0z"
-                            }
-                        }, {
-                            tag: "path",
-                            attr: {
-                                d: "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c5.51 0 10-4.48 10-10S17.51 2 12 2zm6.605 4.61a8.502 8.502 0 0 1 1.93 5.314c-.281-.054-3.101-.629-5.943-.271-.065-.141-.12-.293-.184-.445a25.424 25.424 0 0 0-.564-1.236c3.145-1.28 4.577-3.124 4.761-3.362zM12 3.475c2.17 0 4.154.814 5.662 2.148-.152.216-1.443 1.941-4.48 3.08-1.399-2.57-2.95-4.675-3.189-5A8.686 8.686 0 0 1 12 3.475zm-3.633.803a53.903 53.903 0 0 1 3.167 4.935c-3.992 1.063-7.517 1.04-7.896 1.04a8.581 8.581 0 0 1 4.729-5.975zM3.453 12.01v-.26c.37.01 4.512.065 8.775-1.215.25.477.477.965.694 1.453-.109.033-.228.065-.336.098-4.404 1.42-6.747 5.303-6.942 5.629a8.522 8.522 0 0 1-2.19-5.705zM12 20.547a8.482 8.482 0 0 1-5.239-1.8c.152-.315 1.888-3.656 6.703-5.337.022-.01.033-.01.054-.022a35.309 35.309 0 0 1 1.823 6.475 8.4 8.4 0 0 1-3.341.684zm4.761-1.465c-.086-.52-.542-3.015-1.66-6.084 2.68-.423 5.023.271 5.315.369a8.468 8.468 0 0 1-3.655 5.715z"
+                                d: "M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM216 232V334.1l31-31c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-72 72c-9.4 9.4-24.6 9.4-33.9 0l-72-72c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l31 31V232c0-13.3 10.7-24 24-24s24 10.7 24 24z"
                             }
                         }]
                     }]

@@ -443,10 +443,10 @@
                                     })
                                 })]
                             })
-                        }), r.dribbble && (0, n.jsx)("li", {
+                        }), r.resume && (0, n.jsx)("li", {
                             className: "inline-block align-middle",
                             children: (0, n.jsxs)("a", {
-                                href: r.dribbble,
+                                href: r.resume,
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "group relative inline-block h-10 w-10 overflow-hidden border border-white border-opacity-10 text-center align-middle text-lg leading-none text-body ".concat(t ? "rounded-full" : "rounded"),
